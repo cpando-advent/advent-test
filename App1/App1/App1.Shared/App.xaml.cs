@@ -35,6 +35,7 @@ namespace App1
         /// </summary>
         public App()
         {
+            // Aasdfsadfsdaf
             this.InitializeComponent();
             this.Suspending += this.OnSuspending;
         }
